@@ -7,9 +7,9 @@ Create a program that takes input of movies data then returns the showtimes per 
 - Create tests file to have some tests - If time permits 
 
 ## Steps
-1- Read the Input file as a List of Objects
-2- Set the operation hours of the provided input date
-3- Get the showtimes per movie depends on the business rules
+1- Read the Input file as a List of Objects<br>
+2- Set the operation hours of the provided input date<br>
+3- Get the showtimes per movie depends on the business rules<br>
 4- Print the showtimes for the user 
 
 ## Specs and Tools
